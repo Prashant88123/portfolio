@@ -81,8 +81,6 @@
 <div align="center">
   <a href="https://ai-code-reviewer-kvvhfkxmntku34zgk3l8jb.streamlit.app">
     <img width="1228" height="780" alt="image" src="https://github.com/user-attachments/assets/5fcdcc5e-cb15-4a4e-93a2-537095b35d37" />
-
-    <img src="https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fai-code-reviewer-kvvhfkxmntku34zgk3l8jb.streamlit.app?w=1100" alt="AI Code Reviewer Live Preview" width="95%" />
   </a>
 </div>
 
