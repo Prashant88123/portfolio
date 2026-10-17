@@ -19,6 +19,8 @@
 
 <div align="center">
   <a href="https://prashant88123.github.io/portfolio/">
+    <img width="1913" height="932" alt="image" src="https://github.com/user-attachments/assets/8d2ecd22-f514-4df5-b57e-917b29b659f2" />
+
     <img src="https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fprashant88123.github.io%2Fportfolio%2F?w=1200" alt="Prashant SDE Portfolio Preview" width="100%" />
   </a>
   <p><em>Click the image above to launch the interactive live portfolio (or replace with <code>./screenshots/portfolio-preview.png</code>)</em></p>
@@ -33,6 +35,8 @@
 
 <div align="center">
   <a href="https://rakt-setu-gules.vercel.app">
+    <img width="1025" height="830" alt="image" src="https://github.com/user-attachments/assets/626d7567-5990-47d3-99ce-1567979a96c2" />
+
     <img src="https://s0.wordpress.com/mshots/v1/https%3A%2F%2Frakt-setu-gules.vercel.app?w=1100" alt="RaktSetu Live Preview" width="95%" />
   </a>
 </div>
@@ -62,6 +66,8 @@
 
 <div align="center">
   <a href="https://food-delivery-website-neon-seven.vercel.app">
+    <img width="1793" height="842" alt="image" src="https://github.com/user-attachments/assets/3b55802e-6e90-47ce-b845-0379a7757abc" />
+
     <img src="https://s0.wordpress.com/mshots/v1/https%3A%2F%2Ffood-delivery-website-neon-seven.vercel.app?w=1100" alt="Tomato Food Delivery Live Preview" width="95%" />
   </a>
 </div>
