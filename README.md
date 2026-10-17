@@ -23,7 +23,7 @@
 
     <img src="https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fprashant88123.github.io%2Fportfolio%2F?w=1200" alt="Prashant SDE Portfolio Preview" width="100%" />
   </a>
-  <p><em>Click the image above to launch the interactive live portfolio (or replace with <code>./screenshots/portfolio-preview.png</code>)</em></p>
+  <p><em>Click the image above to launch the interactive live portfolio</em></p>
 </div>
 
 ---
